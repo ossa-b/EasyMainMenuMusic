@@ -2,4 +2,4 @@
 This simple system will make your main menu have music and you can control it very easily.
 
 # Controls
-This system works with a randomly generated number. You will have to adjust some values if you want to add more music. In this demostration, we have **7** songs. So, we will have to adjust this values: `dadsa`
+This system works with a randomly generated number. You will have to adjust some values if you want to add more music. In this demostration, we have **7** songs. So, we will have to adjust this values: `System.Random(1,8)`
